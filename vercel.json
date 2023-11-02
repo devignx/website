@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "https://devignx.tech/$1",
+            "statusCode": 301
+        }
+    ]
+}
